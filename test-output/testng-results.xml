@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-09T18:06:38 IST" name="Default suite" finished-at="2023-01-09T18:07:34 IST" duration-ms="56131">
+    <groups>
+    </groups>
+    <test started-at="2023-01-09T18:06:38 IST" name="Default test" finished-at="2023-01-09T18:07:34 IST" duration-ms="56131">
+      <class name="com.TestNg.TestCases.TestCases">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.TestNg.TestCases.TestCases@6bd61f98]" started-at="2023-01-09T18:06:38 IST" name="Setup" finished-at="2023-01-09T18:06:43 IST" duration-ms="5221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="AddItemTest()[pri:0, instance:com.TestNg.TestCases.TestCases@6bd61f98]" started-at="2023-01-09T18:06:43 IST" name="AddItemTest" finished-at="2023-01-09T18:07:34 IST" duration-ms="50793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddItemTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.TestNg.TestCases.TestCases@6bd61f98]" started-at="2023-01-09T18:07:34 IST" name="TearDown" finished-at="2023-01-09T18:07:34 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.TestNg.TestCases.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
